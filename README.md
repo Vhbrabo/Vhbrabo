@@ -1,7 +1,5 @@
 ### Hey! :)
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.victork/)
-[![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vhbrabo?t=5Kg3j9brgx0yGHcYL-mP1Q&s=09)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-cardoso-624b46230/)
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vhbrabo&show_icons=true&theme=tokyonight)
